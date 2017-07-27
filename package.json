@@ -1,0 +1,13 @@
+{
+  "name"         : "ExpressJSMongoDB",
+  "version"      : "1.0.0",
+  "description"  : "ExpressJS and Mongoose Web API.",
+  "main"         : "server.js",
+  "author"       : "Emmanuel",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    "mongoose"   : "~3.6.2",
+    "body-parser": "~1.5.2",
+    "method-override": "~2.1.2"
+    }
+}
